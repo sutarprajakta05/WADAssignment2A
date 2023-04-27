@@ -1,0 +1,4 @@
+Name:Prajakta Sutar
+class:TE
+sub:WAD
+Description:WAD assignment 2A
